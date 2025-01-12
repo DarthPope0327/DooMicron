@@ -10,3 +10,5 @@ Discord user MooFishy
 Discord user CalvinHobbss
 
 Kevinakasam https://github.com/Big-Gay-Robot/Micron-Doom/tree/main
+
+tlace17 https://github.com/tlace17/DoomLatch
