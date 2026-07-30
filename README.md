@@ -5,7 +5,8 @@ Base build parts should be gotten from the printers for ants github. https://git
 
 If you are using the Rounded Corner extrusions these are found in the DFH extrusions and panels file.
 
-panels from pulsar-3d should work with the DFH files. 
+Extrusions from pulsar-3d should work with the DFH files. 
+
 If you are using 151530 square corner extrusions you will replace the Front and Rear skirts on the top and bottom with the files in the Square Corner Extrusion Skirts file as well as the top and bottom trims and corner brackets all other files are the same as the ones in the DFH folder. 
 
 ![20240627_234456](https://github.com/user-attachments/assets/9fd026d2-ae39-457b-b47a-2e6af2551a9f)
